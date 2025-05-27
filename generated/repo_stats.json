@@ -21,8 +21,8 @@
   },
   "3089464667/QIANLI-WANG.github.io": {
     "stars": 1,
-    "clones": 34,
-    "views": 42,
+    "clones": 37,
+    "views": 48,
     "history": {
       "2025-05-21": {
         "stars": 1,
@@ -53,11 +53,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-05-27": {
+        "stars": 0,
+        "clones": 3,
+        "views": 6
       }
     },
     "last_stars": 1,
-    "last_clones": 34,
-    "last_views": 41
+    "last_clones": 37,
+    "last_views": 47
   },
   "3089464667/The-RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
     "stars": 0,
@@ -90,6 +95,11 @@
         "views": 0
       },
       "2025-05-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-05-27": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -133,6 +143,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-05-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -173,6 +188,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-05-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -181,8 +201,8 @@
   },
   "3089464667/Repo-Activity-Recorder": {
     "stars": 1,
-    "clones": 100,
-    "views": 229,
+    "clones": 105,
+    "views": 230,
     "history": {
       "2025-05-21": {
         "stars": 1,
@@ -213,16 +233,21 @@
         "stars": 0,
         "clones": 7,
         "views": 3
+      },
+      "2025-05-27": {
+        "stars": 0,
+        "clones": 5,
+        "views": 1
       }
     },
     "last_stars": 1,
-    "last_clones": 100,
-    "last_views": 229
+    "last_clones": 105,
+    "last_views": 230
   },
   "3089464667/default-app": {
     "stars": 40,
-    "clones": 237,
-    "views": 630,
+    "clones": 239,
+    "views": 639,
     "history": {
       "2025-05-21": {
         "stars": 33,
@@ -253,11 +278,16 @@
         "stars": 2,
         "clones": 1,
         "views": 13
+      },
+      "2025-05-27": {
+        "stars": 0,
+        "clones": 2,
+        "views": 9
       }
     },
     "last_stars": 40,
-    "last_clones": 200,
-    "last_views": 588
+    "last_clones": 202,
+    "last_views": 597
   },
   "3089464667/image-classification": {
     "stars": 1,
@@ -290,6 +320,11 @@
         "views": 0
       },
       "2025-05-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-05-27": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -330,6 +365,11 @@
         "views": 0
       },
       "2025-05-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-05-27": {
         "stars": 0,
         "clones": 0,
         "views": 0
