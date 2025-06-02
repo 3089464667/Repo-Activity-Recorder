@@ -83,11 +83,16 @@
         "stars": 0,
         "clones": 1,
         "views": 1
+      },
+      "2025-06-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 37,
-    "last_views": 48
+    "last_clones": 21,
+    "last_views": 16
   },
   "3089464667/The-RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
     "stars": 0,
@@ -150,6 +155,11 @@
         "views": 0
       },
       "2025-06-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-06-02": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -223,11 +233,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-06-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 25,
-    "last_views": 9
+    "last_clones": 13,
+    "last_views": 5
   },
   "3089464667/image-classify-ResNet": {
     "stars": 1,
@@ -293,6 +308,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-06-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -301,7 +321,7 @@
   },
   "3089464667/Repo-Activity-Recorder": {
     "stars": 1,
-    "clones": 131,
+    "clones": 136,
     "views": 247,
     "history": {
       "2025-05-21": {
@@ -363,10 +383,15 @@
         "stars": 0,
         "clones": 5,
         "views": 0
+      },
+      "2025-06-02": {
+        "stars": 0,
+        "clones": 5,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 131,
+    "last_clones": 136,
     "last_views": 247
   },
   "3089464667/default-app": {
@@ -433,11 +458,16 @@
         "stars": 1,
         "clones": 0,
         "views": 0
+      },
+      "2025-06-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 45,
-    "last_clones": 158,
-    "last_views": 487
+    "last_clones": 34,
+    "last_views": 380
   },
   "3089464667/image-classification": {
     "stars": 1,
@@ -500,6 +530,11 @@
         "views": 0
       },
       "2025-06-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-06-02": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -570,6 +605,11 @@
         "views": 0
       },
       "2025-06-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-06-02": {
         "stars": 0,
         "clones": 0,
         "views": 0
