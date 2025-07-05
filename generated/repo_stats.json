@@ -248,6 +248,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -480,6 +485,11 @@
         "views": 0
       },
       "2025-07-04": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-05": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -718,6 +728,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -950,6 +965,11 @@
         "views": 0
       },
       "2025-07-04": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-05": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -1188,16 +1208,21 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2025-07-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 66,
-    "last_views": 5
+    "last_clones": 63,
+    "last_views": 4
   },
   "3089464667/default-app": {
     "stars": 49,
     "clones": 249,
-    "views": 657,
+    "views": 660,
     "history": {
       "2025-05-21": {
         "stars": 33,
@@ -1423,11 +1448,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 3
       }
     },
     "last_stars": 48,
     "last_clones": 9,
-    "last_views": 29
+    "last_views": 32
   },
   "3089464667/image-classification": {
     "stars": 1,
@@ -1655,6 +1685,11 @@
         "views": 0
       },
       "2025-07-04": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-05": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -1893,6 +1928,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -1901,7 +1941,7 @@
   },
   "3089464667/PathArk": {
     "stars": 1,
-    "clones": 14,
+    "clones": 15,
     "views": 55,
     "history": {
       "2025-06-03": {
@@ -2063,10 +2103,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-05": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 2,
     "last_views": 0
   }
 }
