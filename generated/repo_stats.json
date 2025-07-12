@@ -21,7 +21,7 @@
   },
   "3089464667/QIANLI-WANG.github.io": {
     "stars": 1,
-    "clones": 46,
+    "clones": 47,
     "views": 55,
     "history": {
       "2025-05-21": {
@@ -283,10 +283,15 @@
         "stars": 0,
         "clones": 5,
         "views": 5
+      },
+      "2025-07-12": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 5,
+    "last_clones": 6,
     "last_views": 5
   },
   "3089464667/The-RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
@@ -550,6 +555,11 @@
         "views": 0
       },
       "2025-07-11": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-12": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -823,6 +833,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-12": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -1090,6 +1105,11 @@
         "views": 0
       },
       "2025-07-11": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-12": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -1363,11 +1383,16 @@
         "stars": 0,
         "clones": 2,
         "views": 0
+      },
+      "2025-07-12": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 74,
-    "last_views": 4
+    "last_clones": 73,
+    "last_views": 3
   },
   "3089464667/default-app": {
     "stars": 53,
@@ -1633,6 +1658,11 @@
         "stars": 1,
         "clones": 1,
         "views": 1
+      },
+      "2025-07-12": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 52,
@@ -1900,6 +1930,11 @@
         "views": 0
       },
       "2025-07-11": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-12": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -2173,6 +2208,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-12": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -2181,7 +2221,7 @@
   },
   "3089464667/PathArk": {
     "stars": 1,
-    "clones": 16,
+    "clones": 17,
     "views": 55,
     "history": {
       "2025-06-03": {
@@ -2378,10 +2418,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-12": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 2,
+    "last_clones": 3,
     "last_views": 0
   }
 }
