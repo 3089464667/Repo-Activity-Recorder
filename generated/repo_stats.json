@@ -333,6 +333,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-22": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -341,7 +346,7 @@
   },
   "3089464667/The-RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
     "stars": 0,
-    "clones": 15,
+    "clones": 25,
     "views": 0,
     "history": {
       "2025-05-21": {
@@ -653,10 +658,15 @@
         "stars": 0,
         "clones": 9,
         "views": 0
+      },
+      "2025-07-22": {
+        "stars": 0,
+        "clones": 10,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 9,
+    "last_clones": 19,
     "last_views": 0
   },
   "3089464667/3089464667": {
@@ -970,6 +980,11 @@
         "views": 0
       },
       "2025-07-21": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-22": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -1293,6 +1308,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-22": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -1613,6 +1633,11 @@
         "stars": 0,
         "clones": 0,
         "views": 2
+      },
+      "2025-07-22": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -1933,15 +1958,20 @@
         "stars": 1,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-22": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 54,
     "last_clones": 5,
-    "last_views": 76
+    "last_views": 74
   },
   "3089464667/image-classification": {
     "stars": 1,
-    "clones": 15,
+    "clones": 26,
     "views": 0,
     "history": {
       "2025-05-21": {
@@ -2253,10 +2283,15 @@
         "stars": 0,
         "clones": 10,
         "views": 0
+      },
+      "2025-07-22": {
+        "stars": 0,
+        "clones": 11,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 10,
+    "last_clones": 21,
     "last_views": 0
   },
   "3089464667/RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
@@ -2573,6 +2608,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-22": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -2825,6 +2865,11 @@
         "views": 0
       },
       "2025-07-21": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-22": {
         "stars": 0,
         "clones": 0,
         "views": 0
