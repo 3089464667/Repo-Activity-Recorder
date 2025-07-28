@@ -363,6 +363,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -710,6 +715,11 @@
         "views": 0
       },
       "2025-07-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-28": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -1063,6 +1073,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -1410,6 +1425,11 @@
         "views": 0
       },
       "2025-07-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-28": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -1763,10 +1783,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 75,
+    "last_clones": 74,
     "last_views": 9
   },
   "3089464667/default-app": {
@@ -2113,15 +2138,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 55,
     "last_clones": 6,
-    "last_views": 63
+    "last_views": 60
   },
   "3089464667/image-classification": {
     "stars": 1,
-    "clones": 96,
+    "clones": 97,
     "views": 0,
     "history": {
       "2025-05-21": {
@@ -2463,10 +2493,15 @@
         "stars": 0,
         "clones": 8,
         "views": 0
+      },
+      "2025-07-28": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 91,
+    "last_clones": 92,
     "last_views": 0
   },
   "3089464667/RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
@@ -2813,6 +2848,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-07-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -3095,6 +3135,11 @@
         "views": 0
       },
       "2025-07-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-07-28": {
         "stars": 0,
         "clones": 0,
         "views": 0
