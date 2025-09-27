@@ -668,6 +668,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-09-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -1323,15 +1328,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-09-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 4,
+    "last_clones": 3,
     "last_views": 0
   },
   "3089464667/3089464667": {
     "stars": 1,
-    "clones": 70,
+    "clones": 71,
     "views": 33,
     "history": {
       "2025-05-21": {
@@ -1978,10 +1988,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-09-27": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 5,
+    "last_clones": 6,
     "last_views": 2
   },
   "3089464667/image-classify-ResNet": {
@@ -2630,6 +2645,11 @@
         "views": 0
       },
       "2025-09-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-09-27": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -3288,16 +3308,21 @@
         "stars": 0,
         "clones": 2,
         "views": 0
+      },
+      "2025-09-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 2,
-    "last_clones": 83,
-    "last_views": 6
+    "last_clones": 82,
+    "last_views": 1
   },
   "3089464667/default-app": {
     "stars": 60,
     "clones": 275,
-    "views": 817,
+    "views": 821,
     "history": {
       "2025-05-21": {
         "stars": 33,
@@ -3943,11 +3968,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-09-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 4
       }
     },
     "last_stars": 59,
     "last_clones": 8,
-    "last_views": 45
+    "last_views": 49
   },
   "3089464667/image-classification": {
     "stars": 1,
@@ -4595,6 +4625,11 @@
         "views": 0
       },
       "2025-09-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-09-27": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -5253,6 +5288,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-09-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -5840,6 +5880,11 @@
         "views": 0
       },
       "2025-09-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-09-27": {
         "stars": 0,
         "clones": 0,
         "views": 0
