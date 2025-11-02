@@ -21,7 +21,7 @@
   },
   "3089464667/QIANLI-WANG.github.io": {
     "stars": 1,
-    "clones": 63,
+    "clones": 64,
     "views": 57,
     "history": {
       "2025-05-21": {
@@ -848,16 +848,21 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2025-11-02": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 4,
+    "last_clones": 5,
     "last_views": 0
   },
   "3089464667/The-RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
     "stars": 0,
     "clones": 90,
-    "views": 1,
+    "views": 2,
     "history": {
       "2025-05-21": {
         "stars": 0,
@@ -1683,15 +1688,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 1
       }
     },
     "last_stars": 0,
     "last_clones": 3,
-    "last_views": 1
+    "last_views": 2
   },
   "3089464667/3089464667": {
     "stars": 1,
-    "clones": 74,
+    "clones": 75,
     "views": 34,
     "history": {
       "2025-05-21": {
@@ -2518,15 +2528,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-02": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 2,
     "last_views": 1
   },
   "3089464667/image-classify-ResNet": {
     "stars": 1,
-    "clones": 19,
+    "clones": 21,
     "views": 6,
     "history": {
       "2025-05-21": {
@@ -3353,10 +3368,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-02": {
+        "stars": 0,
+        "clones": 2,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 3,
+    "last_clones": 5,
     "last_views": 0
   },
   "3089464667/Repo-Activity-Recorder": {
@@ -4188,11 +4208,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 3,
-    "last_clones": 92,
-    "last_views": 14
+    "last_clones": 90,
+    "last_views": 10
   },
   "3089464667/default-app": {
     "stars": 61,
@@ -5023,15 +5048,20 @@
         "stars": 0,
         "clones": 0,
         "views": 4
+      },
+      "2025-11-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 60,
     "last_clones": 6,
-    "last_views": 32
+    "last_views": 31
   },
   "3089464667/image-classification": {
     "stars": 1,
-    "clones": 110,
+    "clones": 111,
     "views": 0,
     "history": {
       "2025-05-21": {
@@ -5858,10 +5888,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-02": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 3,
+    "last_clones": 4,
     "last_views": 0
   },
   "3089464667/RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
@@ -6693,6 +6728,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -7460,6 +7500,11 @@
         "views": 0
       },
       "2025-11-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-02": {
         "stars": 0,
         "clones": 0,
         "views": 0
