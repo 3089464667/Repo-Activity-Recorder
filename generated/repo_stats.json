@@ -923,6 +923,11 @@
         "stars": 0,
         "clones": 0,
         "views": 1
+      },
+      "2025-11-17": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -1830,6 +1835,11 @@
         "views": 0
       },
       "2025-11-16": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-17": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -2743,11 +2753,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-17": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
     "last_clones": 4,
-    "last_views": 2
+    "last_views": 1
   },
   "3089464667/image-classify-ResNet": {
     "stars": 1,
@@ -3650,6 +3665,11 @@
         "views": 0
       },
       "2025-11-16": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-17": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -4563,16 +4583,21 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-17": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 3,
-    "last_clones": 96,
-    "last_views": 13
+    "last_clones": 94,
+    "last_views": 12
   },
   "3089464667/default-app": {
     "stars": 62,
     "clones": 296,
-    "views": 901,
+    "views": 903,
     "history": {
       "2025-05-21": {
         "stars": 33,
@@ -5473,11 +5498,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-17": {
+        "stars": 0,
+        "clones": 0,
+        "views": 2
       }
     },
     "last_stars": 61,
     "last_clones": 9,
-    "last_views": 54
+    "last_views": 56
   },
   "3089464667/image-classification": {
     "stars": 1,
@@ -6380,6 +6410,11 @@
         "views": 0
       },
       "2025-11-16": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-17": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -7293,6 +7328,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-17": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -8135,6 +8175,11 @@
         "views": 1
       },
       "2025-11-16": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-17": {
         "stars": 0,
         "clones": 0,
         "views": 0
