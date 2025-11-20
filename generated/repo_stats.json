@@ -938,6 +938,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-20": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -1860,6 +1865,11 @@
         "views": 0
       },
       "2025-11-19": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-20": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -2788,10 +2798,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-20": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 4,
+    "last_clones": 3,
     "last_views": 1
   },
   "3089464667/image-classify-ResNet": {
@@ -3710,6 +3725,11 @@
         "views": 0
       },
       "2025-11-19": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-20": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -4638,16 +4658,21 @@
         "stars": 1,
         "clones": 0,
         "views": 3
+      },
+      "2025-11-20": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 4,
-    "last_clones": 91,
+    "last_clones": 87,
     "last_views": 15
   },
   "3089464667/default-app": {
     "stars": 62,
     "clones": 296,
-    "views": 903,
+    "views": 904,
     "history": {
       "2025-05-21": {
         "stars": 33,
@@ -5563,11 +5588,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-20": {
+        "stars": 0,
+        "clones": 0,
+        "views": 1
       }
     },
-    "last_stars": 61,
-    "last_clones": 8,
-    "last_views": 42
+    "last_stars": 60,
+    "last_clones": 7,
+    "last_views": 43
   },
   "3089464667/image-classification": {
     "stars": 1,
@@ -6485,6 +6515,11 @@
         "views": 0
       },
       "2025-11-19": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-20": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -7413,6 +7448,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-20": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -8270,6 +8310,11 @@
         "views": 1
       },
       "2025-11-19": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-20": {
         "stars": 0,
         "clones": 0,
         "views": 0
