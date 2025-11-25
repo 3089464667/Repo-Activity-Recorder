@@ -963,6 +963,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -1910,6 +1915,11 @@
         "views": 0
       },
       "2025-11-24": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-25": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -2863,6 +2873,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -3812,6 +3827,11 @@
       "2025-11-24": {
         "stars": 0,
         "clones": 1,
+        "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
         "views": 0
       }
     },
@@ -4763,11 +4783,16 @@
         "stars": 0,
         "clones": 2,
         "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 4,
     "last_clones": 80,
-    "last_views": 22
+    "last_views": 18
   },
   "3089464667/default-app": {
     "stars": 62,
@@ -5713,6 +5738,11 @@
         "stars": 0,
         "clones": 0,
         "views": 1
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 60,
@@ -6660,6 +6690,11 @@
         "views": 0
       },
       "2025-11-24": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-25": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -7613,6 +7648,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -8498,10 +8538,15 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2025-11-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 4,
-    "last_views": 4
+    "last_clones": 3,
+    "last_views": 3
   }
 }
