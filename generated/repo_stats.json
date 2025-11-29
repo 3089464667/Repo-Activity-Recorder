@@ -983,10 +983,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 0,
     "last_views": 1
   },
   "3089464667/The-RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
@@ -1950,6 +1955,11 @@
         "views": 0
       },
       "2025-11-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-29": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -2923,10 +2933,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 3,
+    "last_clones": 2,
     "last_views": 0
   },
   "3089464667/image-classify-ResNet": {
@@ -3890,6 +3905,11 @@
         "views": 0
       },
       "2025-11-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-29": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -4863,10 +4883,15 @@
         "stars": 0,
         "clones": 0,
         "views": 1
+      },
+      "2025-11-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 4,
-    "last_clones": 74,
+    "last_clones": 73,
     "last_views": 18
   },
   "3089464667/default-app": {
@@ -5833,11 +5858,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 60,
     "last_clones": 5,
-    "last_views": 31
+    "last_views": 30
   },
   "3089464667/image-classification": {
     "stars": 1,
@@ -6800,6 +6830,11 @@
         "views": 0
       },
       "2025-11-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-11-29": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -7773,6 +7808,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -8678,10 +8718,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-11-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
     "last_clones": 2,
-    "last_views": 2
+    "last_views": 1
   }
 }
