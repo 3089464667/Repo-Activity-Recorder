@@ -21,7 +21,7 @@
   },
   "3089464667/QIANLI-WANG.github.io": {
     "stars": 1,
-    "clones": 65,
+    "clones": 67,
     "views": 58,
     "history": {
       "2025-05-21": {
@@ -1003,15 +1003,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-03": {
+        "stars": 0,
+        "clones": 2,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 0,
+    "last_clones": 2,
     "last_views": 0
   },
   "3089464667/The-RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
     "stars": 0,
-    "clones": 93,
+    "clones": 94,
     "views": 2,
     "history": {
       "2025-05-21": {
@@ -1993,15 +1998,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-03": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 1,
+    "last_clones": 2,
     "last_views": 0
   },
   "3089464667/3089464667": {
     "stars": 1,
-    "clones": 80,
+    "clones": 81,
     "views": 36,
     "history": {
       "2025-05-21": {
@@ -2983,15 +2993,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-03": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 2,
+    "last_clones": 3,
     "last_views": 0
   },
   "3089464667/image-classify-ResNet": {
     "stars": 1,
-    "clones": 22,
+    "clones": 23,
     "views": 6,
     "history": {
       "2025-05-21": {
@@ -3973,15 +3988,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-03": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 2,
     "last_views": 0
   },
   "3089464667/Repo-Activity-Recorder": {
     "stars": 4,
-    "clones": 366,
+    "clones": 382,
     "views": 328,
     "history": {
       "2025-05-21": {
@@ -4963,15 +4983,20 @@
         "stars": 0,
         "clones": 19,
         "views": 4
+      },
+      "2025-12-03": {
+        "stars": 0,
+        "clones": 16,
+        "views": 0
       }
     },
     "last_stars": 4,
-    "last_clones": 95,
-    "last_views": 22
+    "last_clones": 111,
+    "last_views": 20
   },
   "3089464667/default-app": {
     "stars": 63,
-    "clones": 299,
+    "clones": 300,
     "views": 920,
     "history": {
       "2025-05-21": {
@@ -5953,15 +5978,20 @@
         "stars": 0,
         "clones": 0,
         "views": 5
+      },
+      "2025-12-03": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 61,
-    "last_clones": 4,
-    "last_views": 42
+    "last_clones": 5,
+    "last_views": 41
   },
   "3089464667/image-classification": {
     "stars": 1,
-    "clones": 113,
+    "clones": 114,
     "views": 0,
     "history": {
       "2025-05-21": {
@@ -6943,15 +6973,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-03": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 2,
     "last_views": 0
   },
   "3089464667/RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
     "stars": 0,
-    "clones": 20,
+    "clones": 21,
     "views": 0,
     "history": {
       "2025-05-21": {
@@ -7933,15 +7968,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-03": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 3,
+    "last_clones": 4,
     "last_views": 0
   },
   "3089464667/PathArk": {
     "stars": 1,
-    "clones": 40,
+    "clones": 41,
     "views": 71,
     "history": {
       "2025-06-03": {
@@ -8858,10 +8898,15 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2025-12-03": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 2,
+    "last_clones": 3,
     "last_views": 0
   }
 }
