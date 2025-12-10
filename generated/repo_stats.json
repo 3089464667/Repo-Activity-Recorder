@@ -1038,6 +1038,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -2063,6 +2068,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -2071,7 +2081,7 @@
   },
   "3089464667/3089464667": {
     "stars": 1,
-    "clones": 83,
+    "clones": 84,
     "views": 37,
     "history": {
       "2025-05-21": {
@@ -3088,10 +3098,15 @@
         "stars": 0,
         "clones": 2,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 3,
+    "last_clones": 4,
     "last_views": 1
   },
   "3089464667/image-classify-ResNet": {
@@ -4110,6 +4125,11 @@
         "views": 1
       },
       "2025-12-09": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-10": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -5138,6 +5158,11 @@
         "stars": 0,
         "clones": 0,
         "views": 6
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 5,
@@ -6163,15 +6188,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 61,
     "last_clones": 3,
-    "last_views": 43
+    "last_views": 39
   },
   "3089464667/image-classification": {
     "stars": 1,
-    "clones": 114,
+    "clones": 115,
     "views": 1,
     "history": {
       "2025-05-21": {
@@ -7188,15 +7218,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 2,
     "last_views": 1
   },
   "3089464667/RoBERTa-model-is-trained-to-predict-emotional-tendencies-in-text-in-the-financial-field": {
     "stars": 0,
-    "clones": 21,
+    "clones": 22,
     "views": 1,
     "history": {
       "2025-05-21": {
@@ -8213,15 +8248,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 3,
+    "last_clones": 4,
     "last_views": 1
   },
   "3089464667/PathArk": {
     "stars": 1,
-    "clones": 41,
+    "clones": 43,
     "views": 73,
     "history": {
       "2025-06-03": {
@@ -9173,10 +9213,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 2,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 2,
+    "last_clones": 4,
     "last_views": 2
   }
 }
